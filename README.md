@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shreya! 👋✨
 
-### 💻 CS Student | 🎨 UI/UX Designer | 🌐 Web3 Enthusiast
+### 💻 CS Student | 🎨 UI/UX Designer 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+beautiful+interfaces;Exploring+Web3+%26+DeFi;Designing+with+purpose" alt="Typing SVG" />
 
@@ -32,10 +32,8 @@ const shreya = {
 
 ### 🎯 What I'm Up To
 
-- 🔭 Currently working on **Web3 & DeFi projects**
-- 🌱 Learning **Blockchain & Decentralized Applications**
 - 👯 Looking to collaborate on **UI/UX and Frontend projects**
-- 💬 Ask me about **Design, React, or Web3**
+- 💬 Ask me about **Design or React**
 - 🎨 Passionate about creating **user-centered designs**
 - ⚡ Fun fact: **I speak 3 languages: English, Hindi & Spanish!**
 
@@ -105,19 +103,6 @@ const shreya = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E&icon_color=F75C7E" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F75C7E" alt="Top Languages" height="170"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=F75C7E&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Leadership & Community
 
 ### 🎨 Core Committee Member | Pixelate Design Club
@@ -146,7 +131,6 @@ I'm always excited to collaborate on interesting projects or just chat about des
 Feel free to reach out:
 
 📧 **Email:** shreyasundliwork@gmail.com  
-📱 **Phone:** +91-9599051769  
 🌐 **Portfolio:** [shreya-cv.netlify.app](https://shreya-cv.netlify.app)
 
 <br>
