@@ -1,9 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Shreya&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Designer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Designing+with+purpose;Building+full-stack+products;Shipping+AI-powered+interfaces" alt="Typing SVG" />
-
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=200&amp;section=header&amp;text=Hi%20there,%20I%27m%20Shreya&amp;fontSize=42&amp;fontColor=fff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=UI/UX%20Designer%20%26%20Full-Stack%20Developer&amp;descAlignY=55&amp;descSize=18" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Designing+with+purpose;Building+full-stack+products;Shipping+AI-powered+interfaces" alt="Typing SVG" />
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-sundli-aa899a330/)
