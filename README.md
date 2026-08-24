@@ -6,8 +6,8 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-sundli-aa899a330/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyah101)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shreya-cv.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasundliwork@gmail.com)
 
@@ -23,7 +23,7 @@ const shreya = {
   education: "B.Tech CSE @ VIT Vellore",
   fellowship: "SheFi Scholar - Season 15 (Web3 & DeFi)",
   leadership: "Design Head @ Indian Society of Automation, VIT",
-  interests: ["UI/UX Design", "Full-Stack Development", "AI/LangGraph Agents", "Web3"],
+  interests: ["UI/UX Design", "Full-Stack Development", "AI/LangGraph Agents"],
   funFact: "I turn complex ideas into simple, beautiful, working products"
 };
 ```
@@ -117,7 +117,7 @@ Premium editorial portfolio inspired by luxury fashion magazines, with experimen
 
 - Design Head, Indian Society of Automation, VIT - leading visual strategy across 12+ campaigns and 5 major events for GraVITas 2026
 - Full-Stack Contributor, Pixelate Design Club - built the registration portal for Odyssey hackathon end-to-end; volunteered at GraVITas 2025
-- Semi-Finalist, Women Techies '26 Hackathon (GDSC, VIT)
+- Semi-Finalist, Women Techies '26 Hackathon (Google Developers Student Club, VIT Vellore)
 - Oracle Certified AI Foundations Associate, MERN Full Stack Development (ETHNUS)
 - Volunteer, Hamari Pahchan NGO, supporting underprivileged children
 
