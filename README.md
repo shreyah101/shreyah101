@@ -1,148 +1,180 @@
 <div align="center">
 
-# Hi there, I'm Shreya! 👋✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Shreya!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Designer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-### 💻 CS Student | 🎨 UI/UX Designer 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Designing+with+purpose+%F0%9F%8E%A8;Building+full-stack+products+%F0%9F%9A%80;Shipping+AI-powered+interfaces+%E2%9C%A8" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Building+beautiful+interfaces;Designing+with+purpose" alt="Typing SVG" />
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shreya-cv.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shreya-cv.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasundliwork@gmail.com)
 
 </div>
 
----
+<br/>
 
 ## 🌸 About Me
 
 ```javascript
 const shreya = {
-    location: "Noida, India 📍",
-    education: "B.Tech CSE @ VIT Vellore 🎓",
-    currentRole: "Graphic Design & UI/UX Intern @ Kacheri Diaries",
-    fellowship: "SheFi Scholar - Season 15 🌟",
-    interests: ["UI/UX Design", "Web Development", "Blockchain", "DeFi"],
-    funFact: "I turn complex ideas into simple, beautiful designs! 🎨"
+  location: "Noida, India 📍",
+  education: "B.Tech CSE @ VIT Vellore 🎓",
+  currentRole: "AI/ML Intern @ Emiac Technologies",
+  previousRole: "Graphic Design & UI/UX Intern @ Kacheri Diaries",
+  fellowship: "SheFi Scholar - Season 15 (Web3 & DeFi) 🌟",
+  leadership: "Design Head @ Indian Society of Automation, VIT",
+  interests: ["UI/UX Design", "Full-Stack Development", "AI/LangGraph Agents", "Web3"],
+  funFact: "I turn complex ideas into simple, beautiful, working products! 🎨"
 };
 ```
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+- 🔭 Currently building **agentic AI pipelines** and **full-stack products** that blend design with engineering
+- 🎨 Leading visual design strategy for **12+ campaigns** as Design Head at ISA, VIT
+- 🏆 Semi-Finalist, **Women Techies '26 Hackathon** (GDSC, VIT)
+- 💬 Ask me about **Design Systems, React, or LangGraph agents**
+- ⚡ Fun fact: I speak **English, Hindi & Spanish!**
 
-### 🎯 What I'm Up To
+<br/>
 
-- 👯 Looking to collaborate on **UI/UX and Frontend projects**
-- 💬 Ask me about **Design or React**
-- 🎨 Passionate about creating **user-centered designs**
-- ⚡ Fun fact: **I speak 3 languages: English, Hindi & Spanish!**
-
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
-### 🔧 Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## 💼 Experience Highlights
-
-### 🎨 Graphic Design & UI/UX Intern
-**Kacheri Diaries LLP** • *Mar 2025 - Present*
-- Designing high-impact graphics and UI elements aligned with brand strategy
-- Creating engaging visuals for social media and digital platforms
-- Applying UI/UX principles for enhanced user experience
-
-### 🌟 SheFi Scholar - Season 15
-**Remote** • *Oct 2025*
-- Selected for fully funded global fellowship in Web3 & Blockchain
-- 8-week immersive program on DeFi and Financial Innovation
-- Engaging with global community of women tech leaders
-
----
-
-## 🎯 Featured Projects
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### 🌐 [Portfolio Website](https://shreya-cv.netlify.app)
-*A modern, responsive portfolio showcasing my work*
+**Languages**
+<br/>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+**Full-Stack & AI**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-✨ Features gradient animations, interactive elements, and modern UI/UX design
+**Design & Tools**
+<br/>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## 🏆 Leadership & Community
+## 💼 Experience
 
-### 🎨 Core Committee Member | Pixelate Design Club
-**VIT Vellore** • *Mar 2024 - Present*
+<table>
+<tr>
+<td width="140"><b>May – Jun 2026</b></td>
+<td>
+<b>AI/ML Intern</b> · Emiac Technologies, Jaipur<br/>
+Built a full-stack SEO research platform (FastAPI + React/TypeScript) powered by a 5-agent LangGraph pipeline for RAG-based competitor analysis, keyword clustering & brief generation — lifted keyword-extraction coverage from 38% to 100%.
+</td>
+</tr>
+<tr>
+<td><b>Aug 2025 – Jan 2026</b></td>
+<td>
+<b>Graphic Design & UI/UX Intern</b> · Kacheri Diaries LLP, Gurugram<br/>
+Redesigned 12+ core web UI components and a unified Figma design system, boosting social ad CTR by 18%; shipped 25+ brand assets with design handoffs 30% faster.
+</td>
+</tr>
+<tr>
+<td><b>Dec 2025</b></td>
+<td>
+<b>SheFi Scholar — Season 15</b> · Remote<br/>
+Selected for a fully-funded global Web3 fellowship covering blockchain, tokenomics, DeFi protocols & DAOs.
+</td>
+</tr>
+</table>
 
-- Created visual assets for club events and campus initiatives
-- Organized hands-on Figma workshop for 180+ participants
-- Maintained visual consistency across club branding
+<br/>
 
----
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Helm — AI Finance Copilot](https://github.com/YOUR_GITHUB_USERNAME)
+`React Native` `FastAPI` `PostgreSQL` `LangGraph` `Redis`
+
+Multi-agent LangGraph workflow on an async FastAPI backend (asyncpg), sustaining **1,000+ concurrent req/sec** with Redis rate limiting and sub-2s tool execution latency.
+
+</td>
+<td width="50%" valign="top">
+
+### 🎤 [PrepAI — Mock Interview Simulator](https://prep-ai-shreya.vercel.app)
+`React 18` `Vite` `Tailwind` `Groq LLaMA 3.3 70B` `Firebase`
+
+AI-powered mock interview pipeline across **8+ job roles** with adaptive questioning, a 4-axis scoring engine, and sub-800ms inference tracked via Firestore analytics.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📰 [News Aggregator](https://news-aggregator-silk-ten.vercel.app)
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+
+MERN news platform with stateless JWT auth, automated NewsAPI fallback caching, and role-based access supporting indexed search across **7 categories at 99.9% uptime**.
+
+</td>
+<td width="50%" valign="top">
+
+### 🖋️ [Editorial Design Portfolio](https://shreya-design.netlify.app)
+`React 18` `Vite` `Tailwind CSS`
+
+Premium editorial portfolio inspired by luxury fashion magazines — experimental typography, CSS-animated vinyl record, and GPU-accelerated 60fps micro-interactions.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Leadership & Achievements
+
+- 🎨 **Design Head**, Indian Society of Automation, VIT — leading visual strategy across 12+ campaigns and 5 major events for GraVITas 2026
+- 💻 **Full-Stack Contributor**, Pixelate Design Club — built the registration portal for Odyssey hackathon end-to-end; volunteered at GraVITas 2025
+- 🏆 **Semi-Finalist**, Women Techies '26 Hackathon (GDSC, VIT)
+- 🎓 **Oracle Certified AI Foundations Associate** · **MERN Full Stack Development (ETHNUS)**
+- 🤝 Volunteer, Hamari Pahchan NGO — supporting underprivileged children
+
+<br/>
 
 ## 🌍 Languages
 
-🇬🇧 **English** - Professional Working Proficiency  
-🇮🇳 **Hindi** - Native  
-🇪🇸 **Spanish** - Intermediate
+🇬🇧 English — Professional &nbsp;·&nbsp; 🇮🇳 Hindi — Native &nbsp;·&nbsp; 🇪🇸 Spanish — Intermediate
 
----
-
-## 📫 Let's Connect!
+<br/>
 
 <div align="center">
 
-I'm always excited to collaborate on interesting projects or just chat about design, development, and Web3! 
+## 📫 Let's Connect!
 
-Feel free to reach out:
+I'm always excited to collaborate on design, full-stack, or AI-agent projects — reach out anytime.
 
-📧 **Email:** shreyasundliwork@gmail.com  
-🌐 **Portfolio:** [shreya-cv.netlify.app](https://shreya-cv.netlify.app)
+📧 **shreyasundliwork@gmail.com** &nbsp;|&nbsp; 🌐 **[shreya-cv.netlify.app](https://shreya-cv.netlify.app)**
 
-<br>
+<br/>
 
-### ✨ *"Design is not just what it looks like and feels like. Design is how it works."* ✨
+*"Design is not just what it looks like and feels like. Design is how it works."*
 
-<br>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F75C7E&style=for-the-badge)
 
----
-
-⭐️ From [Shreya Sundli](https://github.com/YOUR_GITHUB_USERNAME) with 💖
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
