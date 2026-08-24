@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Shreya!&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Designer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20there,%20I'm%20Shreya&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=UI/UX%20Designer%20%26%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Designing+with+purpose+%F0%9F%8E%A8;Building+full-stack+products+%F0%9F%9A%80;Shipping+AI-powered+interfaces+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Designing+with+purpose;Building+full-stack+products;Shipping+AI-powered+interfaces" alt="Typing SVG" />
 
 <br/>
 
@@ -15,30 +15,28 @@
 
 <br/>
 
-## 🌸 About Me
+## About Me
 
 ```javascript
 const shreya = {
-  location: "Noida, India 📍",
-  education: "B.Tech CSE @ VIT Vellore 🎓",
-  currentRole: "AI/ML Intern @ Emiac Technologies",
-  previousRole: "Graphic Design & UI/UX Intern @ Kacheri Diaries",
-  fellowship: "SheFi Scholar - Season 15 (Web3 & DeFi) 🌟",
+  location: "Noida, India",
+  education: "B.Tech CSE @ VIT Vellore",
+  fellowship: "SheFi Scholar - Season 15 (Web3 & DeFi)",
   leadership: "Design Head @ Indian Society of Automation, VIT",
   interests: ["UI/UX Design", "Full-Stack Development", "AI/LangGraph Agents", "Web3"],
-  funFact: "I turn complex ideas into simple, beautiful, working products! 🎨"
+  funFact: "I turn complex ideas into simple, beautiful, working products"
 };
 ```
 
-- 🔭 Currently building **agentic AI pipelines** and **full-stack products** that blend design with engineering
-- 🎨 Leading visual design strategy for **12+ campaigns** as Design Head at ISA, VIT
-- 🏆 Semi-Finalist, **Women Techies '26 Hackathon** (GDSC, VIT)
-- 💬 Ask me about **Design Systems, React, or LangGraph agents**
-- ⚡ Fun fact: I speak **English, Hindi & Spanish!**
+- Currently building agentic AI pipelines and full-stack products that blend design with engineering
+- Leading visual design strategy for 12+ campaigns as Design Head at ISA, VIT
+- Semi-Finalist, Women Techies '26 Hackathon (GDSC, VIT)
+- Ask me about Design Systems, React, or LangGraph agents
+- Fun fact: I speak English, Hindi & Spanish
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -72,70 +70,42 @@ const shreya = {
 
 <br/>
 
-## 💼 Experience
-
-<table>
-<tr>
-<td width="140"><b>May – Jun 2026</b></td>
-<td>
-<b>AI/ML Intern</b> · Emiac Technologies, Jaipur<br/>
-Built a full-stack SEO research platform (FastAPI + React/TypeScript) powered by a 5-agent LangGraph pipeline for RAG-based competitor analysis, keyword clustering & brief generation — lifted keyword-extraction coverage from 38% to 100%.
-</td>
-</tr>
-<tr>
-<td><b>Aug 2025 – Jan 2026</b></td>
-<td>
-<b>Graphic Design & UI/UX Intern</b> · Kacheri Diaries LLP, Gurugram<br/>
-Redesigned 12+ core web UI components and a unified Figma design system, boosting social ad CTR by 18%; shipped 25+ brand assets with design handoffs 30% faster.
-</td>
-</tr>
-<tr>
-<td><b>Dec 2025</b></td>
-<td>
-<b>SheFi Scholar — Season 15</b> · Remote<br/>
-Selected for a fully-funded global Web3 fellowship covering blockchain, tokenomics, DeFi protocols & DAOs.
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎯 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Helm — AI Finance Copilot](https://github.com/YOUR_GITHUB_USERNAME)
+### [Helm - AI Finance Copilot](https://github.com/YOUR_GITHUB_USERNAME)
 `React Native` `FastAPI` `PostgreSQL` `LangGraph` `Redis`
 
-Multi-agent LangGraph workflow on an async FastAPI backend (asyncpg), sustaining **1,000+ concurrent req/sec** with Redis rate limiting and sub-2s tool execution latency.
+Multi-agent LangGraph workflow on an async FastAPI backend (asyncpg), sustaining 1,000+ concurrent req/sec with Redis rate limiting and sub-2s tool execution latency.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎤 [PrepAI — Mock Interview Simulator](https://prep-ai-shreya.vercel.app)
+### [PrepAI - Mock Interview Simulator](https://prep-ai-shreya.vercel.app)
 `React 18` `Vite` `Tailwind` `Groq LLaMA 3.3 70B` `Firebase`
 
-AI-powered mock interview pipeline across **8+ job roles** with adaptive questioning, a 4-axis scoring engine, and sub-800ms inference tracked via Firestore analytics.
+AI-powered mock interview pipeline across 8+ job roles with adaptive questioning, a 4-axis scoring engine, and sub-800ms inference tracked via Firestore analytics.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📰 [News Aggregator](https://news-aggregator-silk-ten.vercel.app)
+### [News Aggregator](https://news-aggregator-silk-ten.vercel.app)
 `MongoDB` `Express.js` `React.js` `Node.js` `JWT`
 
-MERN news platform with stateless JWT auth, automated NewsAPI fallback caching, and role-based access supporting indexed search across **7 categories at 99.9% uptime**.
+MERN news platform with stateless JWT auth, automated NewsAPI fallback caching, and role-based access supporting indexed search across 7 categories at 99.9% uptime.
 
 </td>
 <td width="50%" valign="top">
 
-### 🖋️ [Editorial Design Portfolio](https://shreya-design.netlify.app)
+### [Editorial Design Portfolio](https://shreya-design.netlify.app)
 `React 18` `Vite` `Tailwind CSS`
 
-Premium editorial portfolio inspired by luxury fashion magazines — experimental typography, CSS-animated vinyl record, and GPU-accelerated 60fps micro-interactions.
+Premium editorial portfolio inspired by luxury fashion magazines, with experimental typography, a CSS-animated vinyl record, and GPU-accelerated 60fps micro-interactions.
 
 </td>
 </tr>
@@ -143,29 +113,29 @@ Premium editorial portfolio inspired by luxury fashion magazines — experimenta
 
 <br/>
 
-## 🏆 Leadership & Achievements
+## Leadership & Achievements
 
-- 🎨 **Design Head**, Indian Society of Automation, VIT — leading visual strategy across 12+ campaigns and 5 major events for GraVITas 2026
-- 💻 **Full-Stack Contributor**, Pixelate Design Club — built the registration portal for Odyssey hackathon end-to-end; volunteered at GraVITas 2025
-- 🏆 **Semi-Finalist**, Women Techies '26 Hackathon (GDSC, VIT)
-- 🎓 **Oracle Certified AI Foundations Associate** · **MERN Full Stack Development (ETHNUS)**
-- 🤝 Volunteer, Hamari Pahchan NGO — supporting underprivileged children
+- Design Head, Indian Society of Automation, VIT - leading visual strategy across 12+ campaigns and 5 major events for GraVITas 2026
+- Full-Stack Contributor, Pixelate Design Club - built the registration portal for Odyssey hackathon end-to-end; volunteered at GraVITas 2025
+- Semi-Finalist, Women Techies '26 Hackathon (GDSC, VIT)
+- Oracle Certified AI Foundations Associate, MERN Full Stack Development (ETHNUS)
+- Volunteer, Hamari Pahchan NGO, supporting underprivileged children
 
 <br/>
 
-## 🌍 Languages
+## Languages
 
-🇬🇧 English — Professional &nbsp;·&nbsp; 🇮🇳 Hindi — Native &nbsp;·&nbsp; 🇪🇸 Spanish — Intermediate
+English - Professional &nbsp;|&nbsp; Hindi - Native &nbsp;|&nbsp; Spanish - Intermediate
 
 <br/>
 
 <div align="center">
 
-## 📫 Let's Connect!
+## Let's Connect
 
-I'm always excited to collaborate on design, full-stack, or AI-agent projects — reach out anytime.
+I'm always excited to collaborate on design, full-stack, or AI-agent projects. Reach out anytime.
 
-📧 **shreyasundliwork@gmail.com** &nbsp;|&nbsp; 🌐 **[shreya-cv.netlify.app](https://shreya-cv.netlify.app)**
+**shreyasundliwork@gmail.com** &nbsp;|&nbsp; **[shreya-cv.netlify.app](https://shreya-cv.netlify.app)**
 
 <br/>
 
