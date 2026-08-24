@@ -112,6 +112,16 @@ Premium editorial portfolio inspired by luxury fashion magazines, with experimen
 
 <br/>
 
+## GitHub Analytics
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&hide_border=true" width="98%"/>
+</div>
+<br/>
+
 ## Leadership & Achievements
 
 - Design Head, Indian Society of Automation, VIT - leading visual strategy across 12+ campaigns and 5 major events for GraVITas 2026
