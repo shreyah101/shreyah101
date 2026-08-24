@@ -1,7 +1,6 @@
 <div align="center">
-### Hi there, I'm Shreya
  
-### UI/UX Designer & Full-Stack Developer
+### Hi there!, I'm Shreya
  
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Designing+with+purpose;Building+full-stack+products;Shipping+AI-powered+interfaces" alt="Typing SVG" />
 <br/>
