@@ -134,7 +134,7 @@ English - Professional &nbsp;|&nbsp; Hindi - Native &nbsp;|&nbsp; Spanish - Inte
 
 I'm always excited to collaborate on design, full-stack, or AI-agent projects. Reach out anytime.
 
-**shreyasundliwork@gmail.com** &nbsp;|&nbsp; **[shreya-cv.netlify.app](https://shreya-cv.netlify.app)**
+**[shreya-cv.netlify.app](https://shreya-cv.netlify.app)**
 
 <br/>
 
