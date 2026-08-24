@@ -31,7 +31,6 @@ const shreya = {
 - Currently building agentic AI pipelines and full-stack products that blend design with engineering
 - Leading visual design strategy for 12+ campaigns as Design Head at ISA, VIT
 - Semi-Finalist, Women Techies '26 Hackathon (GDSC, VIT)
-- Ask me about Design Systems, React, or LangGraph agents
 - Fun fact: I speak English, Hindi & Spanish
 
 <br/>
