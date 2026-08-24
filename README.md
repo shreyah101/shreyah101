@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there, I'm Shreya
+### Hi there, I'm Shreya
  
 ### UI/UX Designer & Full-Stack Developer
  
