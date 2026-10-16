@@ -169,7 +169,7 @@ Premium editorial portfolio inspired by luxury fashion magazines, with experimen
 ## &nbsp;Leadership & Achievements
 
 - **Design Head, Indian Society of Automation, VIT** - leading visual strategy across 12+ campaigns and 5 major events for GraVITas 2026
-- **Full-Stack Contributor, Pixelate Design Club** - built the registration portal for Odyssey hackathon end-to-end; volunteered at GraVITas 2025
+- **Design Contributor, Pixelate Design Club** - built the registration portal for Odyssey hackathon end-to-end; volunteered at GraVITas 2025
 - **Semi-Finalist, Women Techies '26 Hackathon** (Google Developers Student Club, VIT Vellore)
 - **Oracle Certified AI Foundations Associate**, MERN Full Stack Development (ETHNUS)
 - **Volunteer, Hamari Pahchan NGO**, supporting underprivileged children
