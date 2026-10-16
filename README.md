@@ -163,7 +163,6 @@ Premium editorial portfolio inspired by luxury fashion magazines, with experimen
 <img src="https://github-readme-stats.vercel.app/api?username=shreyah101&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shreyah101&theme=radical&hide_border=true" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyah101&layout=compact&theme=radical&hide_border=true" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyah101&theme=react-dark&hide_border=true" width="98%"/>
 </div>
 <br/>
 
