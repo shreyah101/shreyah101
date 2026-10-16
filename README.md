@@ -1,20 +1,31 @@
 <div align="center">
- 
-### Hi there!, I'm Shreya
- 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;pause=1000&amp;color=F75C7E&amp;center=true&amp;vCenter=true&amp;width=500&amp;lines=Designing+with+purpose;Building+full-stack+products;Shipping+AI-powered+interfaces" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6D28D9,100:EC4899&height=240&section=header&text=Shreya%20Sundli&fontSize=58&fontColor=F9A8D4&fontAlignY=36&desc=Designing%20with%20purpose%20-%20building%20full-stack%20products%20and%20AI-powered%20interfaces&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn"/>
+
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreya-sundli-aa899a330/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyah101)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://shreya-cv.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyasundliwork@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Designing+with+purpose;Building+full-stack+products;Shipping+AI-powered+interfaces" alt="Typing SVG" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/B.Tech%20CSE-VIT%20Vellore-6D28D9?style=for-the-badge&labelColor=0D0614"/>
+<img src="https://img.shields.io/badge/SheFi%20Scholar-Season%2015-A855F7?style=for-the-badge&labelColor=0D0614"/>
+<img src="https://img.shields.io/badge/Design%20Head-ISA%20VIT-EC4899?style=for-the-badge&labelColor=0D0614"/>
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/shreya-sundli-aa899a330/"><img src="https://img.shields.io/badge/-LinkedIn-0D0614?style=for-the-badge&logo=linkedin&logoColor=F9A8D4"/></a>
+<a href="https://github.com/shreyah101"><img src="https://img.shields.io/badge/-GitHub-0D0614?style=for-the-badge&logo=github&logoColor=F9A8D4"/></a>
+<a href="https://shreya-cv.netlify.app"><img src="https://img.shields.io/badge/-Portfolio-0D0614?style=for-the-badge&logo=googlechrome&logoColor=F9A8D4"/></a>
+<a href="mailto:shreyasundliwork@gmail.com"><img src="https://img.shields.io/badge/-Email-0D0614?style=for-the-badge&logo=gmail&logoColor=F9A8D4"/></a>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0614,50:EC4899,100:0D0614&height=2&section=header"/>
 
 </div>
 
-<br/>
-
-## About Me
+## &nbsp;About Me
 
 ```javascript
 const shreya = {
@@ -28,82 +39,103 @@ const shreya = {
 ```
 
 - Currently building agentic AI pipelines and full-stack products that blend design with engineering
-- Leading visual design strategy for 12+ campaigns as Design Head at ISA, VIT
-- Semi-Finalist, Women Techies '26 Hackathon (GDSC, VIT)
+- Leading visual design strategy for **12+ campaigns** as Design Head at ISA, VIT
+- **Semi-Finalist**, Women Techies '26 Hackathon (GDSC, VIT)
 - Fun fact: I speak English, Hindi & Spanish
 
 <br/>
 
-## Tech Stack
+## &nbsp;Tech Stack
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,py,cpp,js,react,nodejs,fastapi,firebase,postgres,mongodb,figma,git,vercel,netlify&theme=dark"/>
+</div>
+
+<details>
+<summary><b>&nbsp;Full breakdown by category</b></summary>
+<br/>
 
 <div align="center">
 
 **Languages**
 <br/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-6D28D9?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-6D28D9?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white)
+
+<br/>
 
 **Full-Stack & AI**
 <br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge&logo=langchain&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-EC4899?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-EC4899?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-EC4899?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-EC4899?style=flat-square&logo=langchain&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-EC4899?style=flat-square&logo=firebase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-EC4899?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-EC4899?style=flat-square&logo=mongodb&logoColor=white)
+
+<br/>
 
 **Design & Tools**
 <br/>
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A855F7?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-A855F7?style=flat-square&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-A855F7?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-A855F7?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-A855F7?style=flat-square&logo=netlify&logoColor=white)
 
 </div>
+</details>
 
 <br/>
 
-## Featured Projects
+## &nbsp;Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Helm - AI Finance Copilot](https://github.com/YOUR_GITHUB_USERNAME)
-`React Native` `FastAPI` `PostgreSQL` `LangGraph` `Redis`
+### Helm - AI Finance Copilot
+[![Repo](https://img.shields.io/badge/Repo-1A0B2E?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
 
-Multi-agent LangGraph workflow on an async FastAPI backend (asyncpg), sustaining 1,000+ concurrent req/sec with Redis rate limiting and sub-2s tool execution latency.
+Multi-agent LangGraph workflow on an async FastAPI backend (asyncpg), sustaining **1,000+ concurrent req/sec** with Redis rate limiting and sub-2s tool execution latency.
+
+`React Native` `FastAPI` `PostgreSQL` `LangGraph` `Redis`
 
 </td>
 <td width="50%" valign="top">
 
-### [PrepAI - Mock Interview Simulator](https://prep-ai-shreya.vercel.app)
-`React 18` `Vite` `Tailwind` `Groq LLaMA 3.3 70B` `Firebase`
+### PrepAI - Mock Interview Simulator
+[![Repo](https://img.shields.io/badge/Live-1A0B2E?style=flat-square&logo=vercel&logoColor=white)](https://prep-ai-shreya.vercel.app)
 
-AI-powered mock interview pipeline across 8+ job roles with adaptive questioning, a 4-axis scoring engine, and sub-800ms inference tracked via Firestore analytics.
+AI-powered mock interview pipeline across **8+ job roles** with adaptive questioning, a 4-axis scoring engine, and sub-800ms inference tracked via Firestore analytics.
+
+`React 18` `Vite` `Tailwind` `Groq LLaMA 3.3 70B` `Firebase`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [News Aggregator](https://news-aggregator-silk-ten.vercel.app)
-`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
+### News Aggregator
+[![Repo](https://img.shields.io/badge/Live-1A0B2E?style=flat-square&logo=vercel&logoColor=white)](https://news-aggregator-silk-ten.vercel.app)
 
-MERN news platform with stateless JWT auth, automated NewsAPI fallback caching, and role-based access supporting indexed search across 7 categories at 99.9% uptime.
+MERN news platform with stateless JWT auth, automated NewsAPI fallback caching, and role-based access supporting indexed search across 7 categories at **99.9% uptime**.
+
+`MongoDB` `Express.js` `React.js` `Node.js` `JWT`
 
 </td>
 <td width="50%" valign="top">
 
-### [Editorial Design Portfolio](https://shreya-design.netlify.app)
-`React 18` `Vite` `Tailwind CSS`
+### Editorial Design Portfolio
+[![Repo](https://img.shields.io/badge/Live-1A0B2E?style=flat-square&logo=netlify&logoColor=white)](https://shreya-design.netlify.app)
 
-Premium editorial portfolio inspired by luxury fashion magazines, with experimental typography, a CSS-animated vinyl record, and GPU-accelerated 60fps micro-interactions.
+Premium editorial portfolio inspired by luxury fashion magazines, with experimental typography, a CSS-animated vinyl record, and GPU-accelerated **60fps** micro-interactions.
+
+`React 18` `Vite` `Tailwind CSS`
 
 </td>
 </tr>
@@ -121,23 +153,27 @@ Premium editorial portfolio inspired by luxury fashion magazines, with experimen
 </div>
 <br/>
 
-## Leadership & Achievements
+## &nbsp;Leadership & Achievements
 
-- Design Head, Indian Society of Automation, VIT - leading visual strategy across 12+ campaigns and 5 major events for GraVITas 2026
-- Full-Stack Contributor, Pixelate Design Club - built the registration portal for Odyssey hackathon end-to-end; volunteered at GraVITas 2025
-- Semi-Finalist, Women Techies '26 Hackathon (Google Developers Student Club, VIT Vellore)
-- Oracle Certified AI Foundations Associate, MERN Full Stack Development (ETHNUS)
-- Volunteer, Hamari Pahchan NGO, supporting underprivileged children
+- **Design Head, Indian Society of Automation, VIT** - leading visual strategy across 12+ campaigns and 5 major events for GraVITas 2026
+- **Full-Stack Contributor, Pixelate Design Club** - built the registration portal for Odyssey hackathon end-to-end; volunteered at GraVITas 2025
+- **Semi-Finalist, Women Techies '26 Hackathon** (Google Developers Student Club, VIT Vellore)
+- **Oracle Certified AI Foundations Associate**, MERN Full Stack Development (ETHNUS)
+- **Volunteer, Hamari Pahchan NGO**, supporting underprivileged children
 
 <br/>
 
-## Languages
+## &nbsp;Languages
 
-English - Professional &nbsp;|&nbsp; Hindi - Native &nbsp;|&nbsp; Spanish - Intermediate
+![English](https://img.shields.io/badge/English-Professional-6D28D9?style=for-the-badge&labelColor=0D0614)
+![Hindi](https://img.shields.io/badge/Hindi-Native-A855F7?style=for-the-badge&labelColor=0D0614)
+![Spanish](https://img.shields.io/badge/Spanish-Intermediate-EC4899?style=for-the-badge&labelColor=0D0614)
 
 <br/>
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0614,50:EC4899,100:0D0614&height=2&section=header"/>
 
 ## Let's Connect
 
@@ -153,6 +189,6 @@ I'm always excited to collaborate on design, full-stack, or AI-agent projects. R
 
 ![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F75C7E&style=for-the-badge)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6D28D9,100:EC4899&height=140&section=footer&text=Let's%20Build%20Something&fontSize=28&fontColor=F9A8D4&fontAlignY=65"/>
 
 </div>
