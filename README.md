@@ -1,16 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6D28D9,100:EC4899&height=240&section=header&text=Shreya%20Sundli&fontSize=58&fontColor=F9A8D4&fontAlignY=36&desc=Designing%20with%20purpose%20-%20building%20full-stack%20products%20and%20AI-powered%20interfaces&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6D28D9,100:EC4899&height=240&section=header&text=Shreya%20Sundli&fontSize=58&fontColor=F9A8D4&fontAlignY=36&desc=UI%2FUX%20Designer%20%7C%20Product%20Designer%20%7C%20Software%20Developer&descAlignY=58&descSize=16&descAlign=50&animation=fadeIn"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Designing+with+purpose;Building+full-stack+products;Shipping+AI-powered+interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Designing+with+purpose;Crafting+UI%2FUX+and+product+experiences;Building+full-stack+products" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech%20CSE-VIT%20Vellore-6D28D9?style=for-the-badge&labelColor=0D0614"/>
 <img src="https://img.shields.io/badge/SheFi%20Scholar-Season%2015-A855F7?style=for-the-badge&labelColor=0D0614"/>
 <img src="https://img.shields.io/badge/Design%20Head-ISA%20VIT-EC4899?style=for-the-badge&labelColor=0D0614"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Open%20to-UI%2FUX%20Design-F75C7E?style=flat-square&labelColor=0D0614"/>
+<img src="https://img.shields.io/badge/Open%20to-Product%20Design-A855F7?style=flat-square&labelColor=0D0614"/>
+<img src="https://img.shields.io/badge/Open%20to-Software%20Developer%20Roles-6D28D9?style=flat-square&labelColor=0D0614"/>
 
 <br/><br/>
 
@@ -33,12 +39,13 @@ const shreya = {
   education: "B.Tech CSE @ VIT Vellore",
   fellowship: "SheFi Scholar - Season 15 (Web3 & DeFi)",
   leadership: "Design Head @ Indian Society of Automation, VIT",
-  interests: ["UI/UX Design", "Full-Stack Development", "AI/LangGraph Agents"],
+  targetRoles: ["UI/UX Designer", "Product Designer", "Software Developer"],
+  interests: ["UI/UX Design", "Product Design", "Full-Stack Development"],
   funFact: "I turn complex ideas into simple, beautiful, working products"
 };
 ```
 
-- Currently building agentic AI pipelines and full-stack products that blend design with engineering
+- Currently building full-stack products and AI-powered interfaces that blend design with engineering
 - Leading visual design strategy for **12+ campaigns** as Design Head at ISA, VIT
 - **Semi-Finalist**, Women Techies '26 Hackathon (GDSC, VIT)
 - Fun fact: I speak English, Hindi & Spanish
@@ -48,7 +55,7 @@ const shreya = {
 ## &nbsp;Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,py,cpp,js,react,nodejs,fastapi,firebase,postgres,mongodb,figma,git,vercel,netlify&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=figma,react,js,nodejs,fastapi,py,java,cpp,firebase,postgres,mongodb,git,vercel,netlify&theme=dark"/>
 </div>
 
 <details>
@@ -56,6 +63,15 @@ const shreya = {
 <br/>
 
 <div align="center">
+
+**UI/UX & Product Design**
+<br/>
+![UI/UX Design](https://img.shields.io/badge/UI%2FUX_Design-F75C7E?style=flat-square&logo=figma&logoColor=white)
+![Product Design](https://img.shields.io/badge/Product_Design-F75C7E?style=flat-square&logo=figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F75C7E?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-F75C7E?style=flat-square&logo=canva&logoColor=white)
+
+<br/>
 
 **Languages**
 <br/>
@@ -79,10 +95,8 @@ const shreya = {
 
 <br/>
 
-**Design & Tools**
+**Tools & Deployment**
 <br/>
-![Figma](https://img.shields.io/badge/Figma-A855F7?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-A855F7?style=flat-square&logo=canva&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-A855F7?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-A855F7?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-A855F7?style=flat-square&logo=netlify&logoColor=white)
@@ -177,7 +191,7 @@ Premium editorial portfolio inspired by luxury fashion magazines, with experimen
 
 ## Let's Connect
 
-I'm always excited to collaborate on design, full-stack, or AI-agent projects. Reach out anytime.
+I'm always excited to collaborate on UI/UX, product design, and full-stack projects. Reach out anytime.
 
 **[shreya-cv.netlify.app](https://shreya-cv.netlify.app)**
 
@@ -186,8 +200,6 @@ I'm always excited to collaborate on design, full-stack, or AI-agent projects. R
 *"Design is not just what it looks like and feels like. Design is how it works."*
 
 <br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=F75C7E&style=for-the-badge)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0614,50:6D28D9,100:EC4899&height=140&section=footer&text=Let's%20Build%20Something&fontSize=28&fontColor=F9A8D4&fontAlignY=65"/>
 
